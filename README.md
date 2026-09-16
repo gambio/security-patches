@@ -5,10 +5,8 @@
 Dieses Repository stellt Sicherheitspatches für Gambio-Shopversionen zum Download bereit.
 Es enthält ausschließlich die Patch-Pakete und die zugehörigen Hinweise, keinen Shop-Quellcode.
 
-> **Warum hier?** Das Gambio Kundenportal ([gambio-support.de](https://www.gambio-support.de)) ist
-> wegen eines Hosting-Umzugs vorübergehend nicht erreichbar. Damit du Sicherheitspatches trotzdem
-> ohne Verzögerung erhältst, veröffentlichen wir sie übergangsweise hier. Sobald das Kundenportal
-> wieder verfügbar ist, findest du die Patches wie gewohnt auch dort.
+> **Warum hier?** Wir haben aktuell mit einem Ausfall unseres Kundenportals, des Forums und des Blogs zu tun. Aufgrund verdächtiger Aktivitäten auf unserem Webserver haben wir die betroffene Hardware vorsorglich und kontrolliert heruntergefahren.
+Wir prüfen unsere Systeme sorgfältig und nehmen die einzelnen Dienste anschließend Schritt für Schritt wieder in Betrieb. Den aktuellen Stand findest Du jederzeit unter [www.gambio.de/status](https://www.gambio.de/status).
 
 ## Verfügbare Patches
 
@@ -99,10 +97,7 @@ Dieses Repository ist kein Support-Kanal. Bei Fragen zur Installation wende dich
 This repository provides security patches for Gambio shop versions for download.
 It contains only the patch packages and their release notes, no shop source code.
 
-> **Why here?** The Gambio customer portal ([gambio-support.de](https://www.gambio-support.de)) is
-> temporarily unavailable due to a hosting migration. So that you still receive security patches
-> without delay, we publish them here in the meantime. Once the customer portal is back, the
-> patches will be available there as usual.
+> **Why here?** We are currently experiencing an outage affecting our customer portal, the forum and the blog. Following suspicious activity on our web server, we shut down the affected hardware in a controlled manner as a precaution. We are carefully checking our systems and will then bring the individual services back online step by step. You can find the current status at any time at [www.gambio.de/status](https://www.gambio.de/status).
 
 ## Available patches
 
