@@ -86,12 +86,6 @@ Bitte beachte:
 - Verwende nur den Patch, der **zu deiner Shopversion** passt.
 - Spiele Sicherheitspatches **so schnell wie möglich** ein.
 
-## Echtheit dieser Seite
-
-Gambio veröffentlicht Patches ausschließlich unter `github.com/gambio` und verlinkt sie von
-[developers.gambio.de](https://developers.gambio.de). Wir versenden Patches **nie als E-Mail-Anhang**
-und fordern dich nie auf, Dateien von anderen Adressen herunterzuladen. Im Zweifel wende dich an info@gambio.de.
-
 ## Fragen
 
 Dieses Repository ist kein Support-Kanal. Bei Fragen zur Installation wende dich bitte an info@gambio.de.
@@ -185,12 +179,6 @@ Please note:
 - Create a **complete backup** (files and database) before installing.
 - Use only the patch that **matches your shop version**.
 - Install security patches **as soon as possible**.
-
-## Authenticity
-
-Gambio publishes patches exclusively under `github.com/gambio` and links to them from
-[developers.gambio.de](https://developers.gambio.de). We **never send patches as email attachments**
-and never ask you to download files from other addresses. If in doubt, contact info@gambio.de.
 
 ## Questions
 
