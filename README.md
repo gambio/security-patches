@@ -42,8 +42,7 @@ Wenn etwas nicht passt, lösche die Datei und lade sie erneut von dieser Seite h
 <details>
 <summary><strong>Prüfsumme kontrollieren</strong> (optional, für Agenturen und Administratoren)</summary>
 
-Die Prüfsummen aller Dateien stehen in [`SHA256SUMS.txt`](https://github.com/gambio/security-patches/releases/download/security-update-2026-09-v1.0/SHA256SUMS.txt). Die Prüfsumme steht zusätzlich
-in unserer Kunden-E-Mail.
+Die Prüfsummen aller Dateien stehen in [`SHA256SUMS.txt`](https://github.com/gambio/security-patches/releases/download/security-update-2026-09-v1.0/SHA256SUMS.txt).
 
 **Windows, ohne Kommandozeile:** Wenn [7-Zip](https://www.7-zip.org/) installiert ist, klicke mit der
 rechten Maustaste auf die ZIP-Datei und wähle **7-Zip → CRC SHA → SHA-256**. Der angezeigte Wert
@@ -133,8 +132,7 @@ If anything does not match, delete the file and download it again from this page
 <details>
 <summary><strong>Check the checksum</strong> (optional, for agencies and administrators)</summary>
 
-The checksums of all files are listed in [`SHA256SUMS.txt`](https://github.com/gambio/security-patches/releases/download/security-update-2026-09-v1.0/SHA256SUMS.txt). The checksum is also given in
-our customer email.
+The checksums of all files are listed in [`SHA256SUMS.txt`](https://github.com/gambio/security-patches/releases/download/security-update-2026-09-v1.0/SHA256SUMS.txt).
 
 **Windows, without a command line:** If [7-Zip](https://www.7-zip.org/) is installed, right-click the
 ZIP file and choose **7-Zip → CRC SHA → SHA-256**. The value shown must match the value in
